@@ -1,0 +1,9 @@
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\bin\Debug\netstandard2.1\BlazorAppCRUD.Shared.deps.json
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\bin\Debug\netstandard2.1\BlazorAppCRUD.Shared.dll
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\bin\Debug\netstandard2.1\BlazorAppCRUD.Shared.pdb
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.csprojAssemblyReference.cache
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.AssemblyInfoInputs.cache
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.AssemblyInfo.cs
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.dll
+C:\Users\bruno.welausen\source\repos\BlazorAppCRUD\BlazorAppCRUD\Shared\obj\Debug\netstandard2.1\BlazorAppCRUD.Shared.pdb
